@@ -37,7 +37,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/victorGiovannis">
-        <img src="" width="100px;" alt="Foto do Victor Oliveira no GitHub"/><br>
+        <img src="../Portfolio/assets/icons/vitu.PNG" width="100px;" alt="Foto do Victor Oliveira no GitHub"/><br>
         <sub>
           <b>Victor Oliveira</b>
         </sub>
