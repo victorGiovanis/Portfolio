@@ -2,7 +2,7 @@
   💻<br>Portfólio - Victor Giovanni de Olivira
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto](assets/images/preview.png)
 
 <h4 align="center"><a href="https://voliveira-portfolio.netlify.app/#s-home">Clique para visitar o projeto</a></h4>
 
@@ -37,7 +37,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/victorGiovannis">
-        <img src="../Portfolio/assets/icons/vitu.PNG" width="100px;" alt="Foto do Victor Oliveira no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/143363396?s=400&u=7695093731e6f95423b87217ca40b2bc9ff1d66e&v=4" width="100px;" alt="Foto do Victor Oliveira no GitHub"/><br>
         <sub>
           <b>Victor Oliveira</b>
         </sub>
