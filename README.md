@@ -2,7 +2,7 @@
   💻<br>Portfólio - Victor Giovanni de Olivira
 </h1>
 
-![Resultado final do projeto](assets/images/preview.png)
+<!-- ![Resultado final do projeto](assets/images/preview.png) -->
 
 <h4 align="center"><a href="https://voliveira-portfolio.netlify.app/#s-home">Clique para visitar o projeto</a></h4>
 
