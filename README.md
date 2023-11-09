@@ -1,14 +1,14 @@
 <h1 align="center">
-  💻<br>Portfólio - Victor Giovanni de Olivira
+  💻<br>Portfólio - Iuri Silva
 </h1>
 
 ![Resultado final do projeto](assets/images/preview.png)
 
-<h4 align="center"><a href="https://voliveira-portfolio.netlify.app/#s-home">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
-O site é composto por cinco seções:
+O site é composto por seis seções:
 
 - **Home:** Nele temos uma breve apresentação;
 - **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
@@ -31,15 +31,15 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 ---
 
-<h2>🤓 Autor</h2>
+<h2>🦄 Autor</h2>
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/victorGiovannis">
-        <img src="https://avatars.githubusercontent.com/u/143363396" width="100px;" alt="Foto do Victor Oliveira no GitHub"/><br>
+      <a href="https://github.com/iuricode">
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Victor Oliveira</b>
+          <b>Iuri Silva</b>
         </sub>
       </a>
     </td>
