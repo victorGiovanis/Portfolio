@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](assets/images/preview.PNG)
 
-<h4 align="center"><a href="https://voliveira-portfolio.netlify.app/#s-home">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://victor-oliveira.netlify.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
